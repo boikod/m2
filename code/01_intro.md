@@ -13,4 +13,6 @@ Artwork by Alison Horst: https://allisonhorst.com/r-packages-functions
 WorldPop Data : https://www.worldpop.org/datacatalog/
 
 [ModernDive](https://moderndive.com/)   
-[Econometrics course in SciencePo](https://scpoecon.github.io/ScPoEconometrics/index.html)
+[Econometrics course in SciencePo](https://scpoecon.github.io/ScPoEconometrics/index.html)   
+
+[An Introduction to Statistical Learning with Applications in R](https://link.springer.com/book/10.1007/978-1-4614-7138-7)
