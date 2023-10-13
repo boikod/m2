@@ -56,3 +56,4 @@ For self-education, you might also like [swirl package for learning R](https://s
 
 You can use ChatGPT during the practical sessions of the course, as long as the specific assignment doesn't explicitly forbid it.  
 Please, familiarise yourself with the [position paper](https://www.intern.uni-hannover.de/fileadmin/luh/content/studiengangsplanung_intern/LUH-Positionspapier-KI_EN.pdf) of the University.
+Having reminded of the possible ethical concerns, it is recommended to familiarise yourself with the Prompt Engineering technics [Coursera](https://www.coursera.org/learn/prompt-engineering). 
