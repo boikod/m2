@@ -17,6 +17,6 @@ WorldPop Data : https://www.worldpop.org/datacatalog/
 
 [An Introduction to Statistical Learning with Applications in R](https://link.springer.com/book/10.1007/978-1-4614-7138-7)
 
-(Crime statistics in USA)[https://www.fbi.gov/news/press-releases/fbi-releases-2022-crime-in-the-nation-statistics]   
+[Crime statistics in USA](https://www.fbi.gov/news/press-releases/fbi-releases-2022-crime-in-the-nation-statistics)   
 
 
