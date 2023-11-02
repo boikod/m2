@@ -8,6 +8,8 @@ Spatial analysis with US Census data : https://walker-data.com/census-r/spatial-
 
 comparing R and Python for geodata : https://geocompx.org/post/2023/ogh23/ 
 
+[R Spatial Blog](https://r-spatial.org/about/)
+
 [Walker - mapboxapi + R shiny](https://github.com/walkerke/mapboxapi#example-1-building-a-routing-app-with-shiny-and-mb_directions)
 
 [30DaysMapChallenge - David Schoch](https://github.com/schochastics/30DayMapChallenge)
