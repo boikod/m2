@@ -13,3 +13,5 @@
 [GESIS Workshop on Quarto](https://gesiscss.github.io/quarto-workshop/)  
 
 [Information is Beautiful](https://informationisbeautiful.net/blog/)
+
+Tufte [book](http://faculty.salisbury.edu/~jtanderson/teaching/cosc311/fa21/files/tufte.pdf)
