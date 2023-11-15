@@ -18,4 +18,6 @@
 
 [pals package](https://cran.r-project.org/web/packages/pals/vignettes/pals_examples.html)
 
+[Pudding - data storytelling](https://pudding.cool/2023/09/invisible-epidemic/)
+
 Tufte [book](http://faculty.salisbury.edu/~jtanderson/teaching/cosc311/fa21/files/tufte.pdf)
