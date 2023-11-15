@@ -16,4 +16,6 @@
 
 [Information is Beautiful](https://informationisbeautiful.net/blog/)
 
+[pals package](https://cran.r-project.org/web/packages/pals/vignettes/pals_examples.html)
+
 Tufte [book](http://faculty.salisbury.edu/~jtanderson/teaching/cosc311/fa21/files/tufte.pdf)
