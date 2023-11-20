@@ -12,7 +12,9 @@ comparing R and Python for geodata : https://geocompx.org/post/2023/ogh23/
 
 [Walker - mapboxapi + R shiny](https://github.com/walkerke/mapboxapi#example-1-building-a-routing-app-with-shiny-and-mb_directions)
 
-[30DaysMapChallenge - David Schoch](https://github.com/schochastics/30DayMapChallenge)
+[30DaysMapChallenge - David Schoch](https://github.com/schochastics/30DayMapChallenge)   
+
+[30DaysMapChallenge - Blake R. Mills](https://github.com/BlakeRMills/30DayMapChallenge)   
 
 **Online-books**  
 Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow (2019) Geocomputation with R. CRC Press. https://r.geocompx.org/.  
