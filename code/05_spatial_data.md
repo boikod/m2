@@ -8,6 +8,8 @@ Spatial analysis with US Census data : https://walker-data.com/census-r/spatial-
 
 comparing R and Python for geodata : https://geocompx.org/post/2023/ogh23/ 
 
+Bertin style maps : https://r-graph-gallery.com/web-valued-dots-map-bertin.html   
+
 [R Spatial Blog](https://r-spatial.org/about/)
 
 [Walker - mapboxapi + R shiny](https://github.com/walkerke/mapboxapi#example-1-building-a-routing-app-with-shiny-and-mb_directions)
