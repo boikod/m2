@@ -12,6 +12,8 @@
 [Combining plots - using plot()](https://www.statmethods.net/advgraphs/layout.html)
 
 [Quarto](https://quarto.org/)  
+
+[Awesome Quarto](https://github.com/mcanouil/awesome-quarto#featured-new-releases)    
 [GESIS Workshop on Quarto](https://gesiscss.github.io/quarto-workshop/)  
 
 [Information is Beautiful](https://informationisbeautiful.net/blog/)
