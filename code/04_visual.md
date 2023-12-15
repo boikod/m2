@@ -24,4 +24,6 @@
 
 [Pudding - data storytelling](https://pudding.cool/2023/09/invisible-epidemic/)
 
-Tufte [book](http://faculty.salisbury.edu/~jtanderson/teaching/cosc311/fa21/files/tufte.pdf)
+Tufte [book](http://faculty.salisbury.edu/~jtanderson/teaching/cosc311/fa21/files/tufte.pdf)    
+
+Tree canopy - Milos Popovic [rayshader](https://github.com/milos-agathon/3d-forest-height-maps/tree/main)
