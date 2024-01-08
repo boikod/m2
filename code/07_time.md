@@ -10,4 +10,5 @@ Tutorial for ARIMA: forecasting AirPassengers: https://www.simplilearn.com/tutor
 Princeton: https://www.princeton.edu/~otorres/Panel101R.pdf    
 Regression Models for Forecasting: https://www.econometrics-with-r.org/14.1-using-regression-models-for-forecasting.html   
 Plotting time series: https://cran.r-project.org/web/packages/lessR/vignettes/Time.html   
+Warming Stripes:  https://dominicroye.github.io/en/2018/how-to-create-warming-stripes-in-r/    
 
