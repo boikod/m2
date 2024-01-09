@@ -3,6 +3,8 @@ Social Network Analysis
 [Materials for the book "Analyzing Social Networks Using R"](https://www.analyzingsocialnetworksusingr.com/)  
 overview paper: https://onlinelibrary.wiley.com/doi/10.1111/tesg.12480
 
+Mburu:  https://m-mburu.github.io/datacamp/network-analysis-in-r/network_analysis_r.html    
+
 [Visualisation of Networks - David Schoch](https://www.mr.schochastics.net/material/netVizR/)   
 
 [State Networks Dataset](https://ippsr.msu.edu/public-policy/state-networks)
