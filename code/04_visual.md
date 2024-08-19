@@ -22,7 +22,7 @@
 
 [How to use color scales?](https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/)
 
-[Best Color Palettes for Scientific Figures](https://www.simplifiedsciencepublishing.com/resources/best-color-palettes-for-scientific-figures-and-data-visualizations)
+[Best Color Palettes for Scientific Figures](https://www.simplifiedsciencepublishing.com/resources/best-color-palettes-for-scientific-figures-and-data-visualizations),    
 [R pallettes](https://github.com/EmilHvitfeldt/r-color-palettes?tab=readme-ov-file)
 
 [Pudding - data storytelling](https://pudding.cool/2023/09/invisible-epidemic/)
